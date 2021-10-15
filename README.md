@@ -5,6 +5,9 @@
 - getting Knowlegde About SQl
 - Book Reading
 - Watching Basic Course Video - Completed
-- doing work bench tasks
-- 
+- doing MySql workbench tasks
+- Focing on  
+   - workbench
+   - Connector
+   - SQLALCHEMY        
 
