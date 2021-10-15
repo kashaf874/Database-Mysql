@@ -5,4 +5,6 @@
 - getting Knowlegde About SQl
 - Book Reading
 - Watching Basic Course Video - Completed
+- doing work bench tasks
+- 
 
